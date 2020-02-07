@@ -2,7 +2,7 @@ Python I/O redirection with Docker example
 ===
 
 Toy project experimenting how to use a Python app inside a Docker container to stream commands via STDIN
-and receive responses via STDOUT just like you would do with a local Python app.
+and receive responses via STDOUT, just like you would do with a local Python app.
 
 This might help in deciding how to invoke apps embedded with Docker.
 
